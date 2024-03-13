@@ -16,7 +16,7 @@ The different states of connection is signalled with LED colors.
 Color | Description
 ------|--------
 BLUE | Connecting to Ethernet
-PINK | Connecting to ATEM Swithcher (Connected to WiFi).
+PINK | Connecting to ATEM Swithcher (Connected to Ethernet).
 RED | Tally program
 GREEN | Tally preview
 OFF | Tally neither live or preview
